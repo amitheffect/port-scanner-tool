@@ -30,15 +30,15 @@ python --version  # must be 3.10 or higher
 ---
 
 ## Installation
-
-```bash
 # Clone the repository
+```bash
+
 git clone https://github.com/amitheffect/port-scanner.git
 cd port-scanner
 
-# No pip install needed — zero dependencies!
-```
 
+```
+# No pip install needed — zero dependencies!
 ---
 
 ## Usage
