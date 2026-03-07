@@ -1,5 +1,5 @@
 # 🔍 Port Scanner
-
+![Alt text](PORTSC.png)
 > An advanced TCP port scanner for cybersecurity testing, written in Python.
 
 ---
@@ -148,6 +148,8 @@ The scanner has built-in mappings for 60+ common services, including:
 port-scanner/
 ├── port_scanner.py   # Main scanner script
 └── README.md         # This file
+└── LICENSE           # MIT License
+└── PORTSC.png        # Just a banner image
 ```
 
 ---
