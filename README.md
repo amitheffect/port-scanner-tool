@@ -30,15 +30,15 @@ python --version  # must be 3.10 or higher
 ---
 
 ## Installation
-# Clone the repository
-```bash
 
-git clone https://github.com/amitheffect/port-scanner.git
+```bash
+# Clone the repository
+git clone https://github.com/yourname/port-scanner.git
 cd port-scanner
 
-
-```
 # No pip install needed — zero dependencies!
+```
+
 ---
 
 ## Usage
@@ -148,8 +148,6 @@ The scanner has built-in mappings for 60+ common services, including:
 port-scanner/
 ├── port_scanner.py   # Main scanner script
 └── README.md         # This file
-└── LICENSE           # MIT License
-└── PORTSC.png        # Just a banner image
 ```
 
 ---
@@ -182,7 +180,3 @@ port-scanner/
 > The author assumes **no liability** for misuse or damage caused by this tool. Always obtain proper authorization before scanning any target.
 
 ---
-
-## License
-
-MIT License — see `LICENSE` for details.
